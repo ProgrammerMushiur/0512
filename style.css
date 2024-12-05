@@ -1,8 +1,15 @@
 .hading{
     padding: 1px;
     margin: 5px;
-    color: rgb(211, 126, 28);
-    background-color: rgb(88, 204, 165);
+    color: rgb(17, 17, 16);
+    background-color: rgb(236, 6, 6);
     text-align: center;
+
+}
+.firststap
+{
+    float: left;
+}
+.service-1{
 
 }
